@@ -1,4 +1,11 @@
-# Proyecto: NUEVA EXPERIENCIA EN EMPRESAS DE BUSES
+# Viaggio
+
+Es un reto 100% UX que intenta resolver los problemas principales que causan viajar en un bus interprovincial.
+
+![image](https://user-images.githubusercontent.com/32310867/36489073-16430918-16f3-11e8-9ea5-2f4efe975dc8.png)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
 
 ## Equipo Ying-Yang Design
 
